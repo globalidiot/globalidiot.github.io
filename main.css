@@ -1,0 +1,99 @@
+div.wrapper{
+	width: 846px;
+	background-color:#FFFFFF;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 0px;
+	border: none #FFF;
+	}
+body {
+	background-color: #FFFFFF;
+	}
+h1 {
+	color:black;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	padding-top: .5em;
+	padding-bottom:0em;
+	padding-right:.7em;
+	margin: 0px;
+	font-size:-2;
+	}
+h2{
+	text-align:left;
+	color:black;
+	font-family: Georgia, "Times New Roman", serif;
+	padding-bottom: 1em;
+	padding-top:0em;
+	border-bottom: 2em solid black;
+	margin: 0px;
+	}
+h6{
+	text-align:left;
+	color:black;
+	font-family: Georgia, "Times New Roman", serif;
+	padding-bottom: 0em;
+	padding-top:0em;
+	border-bottom: 9em solid black;
+	margin: 0px;
+	}
+td.table_cell{
+	vertical-align: top;
+	}
+td.table_video{
+	vertical-align: top;
+	horizontal_align: center;
+	}
+div.menu{
+	font-family: Georgia, "Times New Roman", serif;
+	background-color:#200000;
+ 	text-decoration: none; color:#FFF;
+	font-family:Georgia, Times New Roman, serif;
+	padding-bottom: 1em;
+	padding-top: 1em;
+	padding-left: 1em;
+	}
+div.submenu{
+	background-color:#FFFFFF;
+	font-family:Georgia, Times New Roman, serif;
+	padding-bottom: 1em;
+	padding-top: 1em;
+	padding-left: 1em;
+	border: thin solid #000000;
+	}
+div.footnote{
+	background-color:#FFFFFF;
+	font-size:10px;
+	font-family:Georgia, Times New Roman, serif;
+	padding-bottom: .5em;
+	padding-top: .5em;
+	padding-left: 1em;
+	border-right: 1em solid #000;
+	}
+div.commontext{
+	text-align:left;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size:12px;
+	padding-top: 0.0em;
+	padding-bottom: 2.5em;
+	padding-left:.5em;
+	padding-right:.5em;
+	border-left: 1em solid #000;
+	background-color:#fff;
+	text-decoration: none;
+	}
+div.center{
+	text-align: center;
+	font-family:Georgia, Times New Roman, serif;
+	}
+A:link {
+ 	text-decoration: none; color: black; }
+A:visited {
+ 	text-decoration: none; color: black; }
+A:visited {
+	text-decoration: none;}
+A:active {
+	text-decoration: none;}
+A:hover {
+	text-decoration: underline; color: green;}
