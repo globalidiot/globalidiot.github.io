@@ -1,5 +1,5 @@
 div.wrapper{
-	width: 846px;
+	width: 1000px;
 	background-color:#FFFFFF;
 	margin-top: 0px;
 	margin-bottom: 0px;
@@ -13,12 +13,14 @@ body {
 	}
 h1 {
 	color:black;
-	font-family: Verdana, Arial, Helvetica, sans-serif;
-	padding-top: .5em;
+	font-family: Helvetica, Verdana, Arial, sans-serif;
+	padding-top: 0em;
 	padding-bottom:0em;
 	padding-right:.7em;
 	margin: 0px;
-	font-size:-2;
+	font-size:184px;
+	letter-spacing: -0.15em;
+	font-stretch: ultra-expanded;
 	}
 h2{
 	text-align:left;
